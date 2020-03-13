@@ -1,2 +1,1 @@
-# Statistics
-This repository has all the codes related to statistics
+Codes related to statistics
